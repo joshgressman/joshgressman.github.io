@@ -1,0 +1,130 @@
+
+   
+  
+
+           body {
+           color:white;
+           font-family: "Times New Roman", Times, serif;
+	   font-size: 2.0em;
+           background-color:#404040;
+        }
+   
+
+	.box {
+           height:75px;
+	}
+
+	
+          .navbar {
+            border-bottom: 15px solid #3399ff; 
+            
+        }  
+
+        .navbar-brand {
+             width: 2em;
+
+        }
+
+	p {
+           margin:0;
+   
+        }
+	
+	.hr {
+         border:1px solid #3399ff;
+       }
+
+	td {
+	 padding-right:30px;
+
+           }
+
+	.l2 {
+          list-style-type:none;
+          margin:none;
+	  padding:0;
+       }
+
+	   #footer {
+           background-color:#222222;
+           height:170px;
+	   width:100%;
+	   border-top: 15px solid #3399ff; 
+       }
+	
+	#cert {
+           padding-bottom:15px;
+
+	}	
+	
+	#bio {
+          width:290px;
+	  height:290px;
+	  border: 4px solid #3399ff;
+	  border-radius:8px;
+	  margin: 0 0 10px 0;
+	  
+        }
+
+	.project {
+              width:240px;
+	      height:240px;
+	      background-color:#3399ff;
+	      border-radius:40px;
+	      margin: 0 100px 20px 40px;
+       }
+
+
+	.recent {
+          margin: -18px 0 18px 0;
+
+       }
+
+	.navbar-brand {
+            font-size:2.0em;
+        }
+
+	#guide {
+           height:220px;
+	   width:220px;
+	   border-radius:15px;
+	   border: 4px solid #3399ff;
+	   
+       }
+
+	.a {
+          font-size:1.2em;
+          width:120px;
+          height:40px;
+          background-color:#3399ff;
+	  margin-left:auto;
+          margin-right:auto;
+	  margin-bottom:35px;
+	  margin-top:50px;
+	  padding: 1px 0 0 4px;
+	  border-radius:8px;
+      }
+
+	a{
+          color:white; 
+          text-decoration:none;
+        }
+
+	a:hover {
+          color:white; 
+       }
+
+	a:visited {
+           color:white;
+           
+
+       }   
+
+	#st {
+           margin-bottom:15px;
+
+         }
+
+       		
+	
+        
